@@ -1,0 +1,38 @@
+body{
+    
+    background-image: url(IMAGENES/66624160-resumen-de-la-tecnolog%C3%ADa-del-futuro-fondo-imagen-generada-por-ordenador-arte-fractal-sala-de-vidrio-o-.jpg);
+}
+
+h1{
+    color: blue;
+    background-color:black;
+    font-family: tahoma;
+    font-size: 30px;
+}
+h2{
+    background-color: white;
+    color:black;
+    font-family: monospace;
+
+}
+h3{
+    
+       background-color: black;
+    color:white;
+    font-family: monospace;
+font-size: 30px;
+}
+h4{
+    
+           background-color: grey;
+    color:purple;
+    font-family: monospace;
+font-size: 20px;
+}
+h5{
+    
+               background-color: grey;
+    color:green;
+    font-family: monospace;
+font-size: 20px;
+}
